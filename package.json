@@ -1,0 +1,11 @@
+{
+  "name": "js-node-react-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ChrisPos2/js-node-react-app.git",
+  "author": "ChrisPos <chrispos666@email.com>",
+  "license": "MIT",
+  "scripts": {
+    "be-dev": "node src/backend/index.js"
+  }
+}
